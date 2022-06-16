@@ -1,0 +1,15 @@
+{
+  "name": "insomnia-plugin-onenord-theme",
+  "version": "1.0.0",
+  "author": "Carlos Aguilera",
+  "description": "Insomnia One Nord theme",
+  "license": "MIT",
+  "repository": "https://github.com/cagucor/insomnia-plugin-onenord-theme.git",
+  "main": "index.js",
+  "insomnia": {
+    "name": "onenord theme"
+  },
+  "scripts": {
+    "test": "node --version"
+  }
+}
